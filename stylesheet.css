@@ -46,7 +46,6 @@ ol{ padding-left:310px;
 	margin-left:auto;
 	background-color:black;
 	color:white;
-	list-style:circle;
 	
 }
 
@@ -77,3 +76,6 @@ table{
 	width: 100%;
 	border-collapse: collapse;
 }
+
+a:link, a:visited { color: white; text-decoration: underline; }
+a:hover, a:active { color: lightgray; text-decoration: underline; }
